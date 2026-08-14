@@ -21,6 +21,8 @@
     <img src="Screenshots/11.png" width="18%" />
     <img src="Screenshots/12.png" width="18%" />
     <img src="Screenshots/13.png" width="18%" />
+    <img src="Screenshots/15.png" width="18%" />
+    <img src="Screenshots/16.png" width="18%" />
   </p>
 </details>
 
