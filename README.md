@@ -21,7 +21,7 @@
     <img src="Screenshots/13.png" width="18%" />
   </p>
 </details>
----
+
 <p align="center">
   <a href="https://github.com/MY-NEW-IRAN/MY-IRAN/releases/download/DEMO/MY-IRAN.apk">
     <img src="https://img.shields.io/badge/Download-APK%20File-2ea44f?style=for-the-badge&logo=android&logoColor=white" alt="Download APK" />
