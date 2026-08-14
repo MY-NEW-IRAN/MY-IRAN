@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="Screenshots/1.png" width="19%" />
+  <img src="Screenshots/2.png" width="19%" />
+  <img src="Screenshots/3.png" width="19%" />
+  <img src="Screenshots/4.png" width="19%" />
+  <img src="Screenshots/5.png" width="19%" />
+</p>
 #  پروژه «ایران من»
 ### حکمرانی دیجیتال مردمی، شفافیت مطلق و عدالت به روش الگوریتم ها 
 
