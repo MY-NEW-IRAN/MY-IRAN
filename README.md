@@ -1,17 +1,25 @@
+<!-- ۵ تصویر اول (همیشه نمایش داده می‌شوند) -->
+<p align="center">
+  <img src="Screenshots/1.png" width="18%" />
+  <img src="Screenshots/2.png" width="18%" />
+  <img src="Screenshots/3.png" width="18%" />
+  <img src="Screenshots/4.png" width="18%" />
+  <img src="Screenshots/5.png" width="18%" />
+</p>
+
+<!-- تصاویر مخفی (با کلیک باز می‌شوند) -->
 <details>
-  <summary><b>📸 مشاهده تمام اسکرین‌شات‌ها (۱۳ تصویر)</b></summary>
+  <summary align="center"><b>📸 مشاهده تصاویر بیشتر (۸ اسکرین‌شات دیگر)</b></summary>
   <br>
   <p align="center">
-    <img src="Screenshots/1.png" width="18%" />
-    <img src="Screenshots/2.png" width="18%" />
-    <img src="Screenshots/3.png" width="18%" />
-    <img src="Screenshots/4.png" width="18%" />
-    <img src="Screenshots/5.png" width="18%" />
+    <!-- ردیف دوم -->
     <img src="Screenshots/6.png" width="18%" />
     <img src="Screenshots/7.png" width="18%" />
     <img src="Screenshots/8.png" width="18%" />
     <img src="Screenshots/9.png" width="18%" />
     <img src="Screenshots/10.png" width="18%" />
+    <br><br>
+    <!-- ردیف سوم -->
     <img src="Screenshots/11.png" width="18%" />
     <img src="Screenshots/12.png" width="18%" />
     <img src="Screenshots/13.png" width="18%" />
