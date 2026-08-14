@@ -27,7 +27,9 @@
     <img src="https://img.shields.io/badge/Download-APK%20File-2ea44f?style=for-the-badge&logo=android&logoColor=white" alt="Download APK" />
   </a>
 </p>
+
 ---
+
 #  پروژه «ایران من»
 ### حکمرانی دیجیتال مردمی، شفافیت مطلق و عدالت به روش الگوریتم ها 
 
