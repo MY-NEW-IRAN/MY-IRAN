@@ -16,12 +16,13 @@
     <img src="Screenshots/9.png" width="18%" />
     <img src="Screenshots/10.png" width="18%" />
     <br><br>
-    <!-- ردیف سوم -->
     <img src="Screenshots/11.png" width="18%" />
     <img src="Screenshots/12.png" width="18%" />
     <img src="Screenshots/13.png" width="18%" />
   </p>
 </details>
+
+---
 #  پروژه «ایران من»
 ### حکمرانی دیجیتال مردمی، شفافیت مطلق و عدالت به روش الگوریتم ها 
 
